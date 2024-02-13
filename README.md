@@ -10,9 +10,14 @@ https://www.youtube.com/playlist?list=PLWw98q-Xe7iGf-c4b6zF0bnJA9avEN_mF
 - pip install cryptography
 
 
-## Tools used
+## Used tools
 - UaExpert
 - Prosys
+
+
+## Personal notes
+
+https://cesarbecerra.notion.site/Python-OPC-UA-f5cd6707b1394520a0a1cfa325fdd8df?pvs=4
 
 
 ## Base example
